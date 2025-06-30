@@ -1,0 +1,18 @@
+# Python files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Database file (we can regenerate it from the script)
+*.db
+
+# Environment files
+.env
+venv/
+
+# Large data files - It's good practice to not upload large raw data.
+# Our CSV is small, so we WILL upload it. But if it were >100MB, you would add it here.
+# raw_sales_data.csv 
+
+# Power BI auto-save files
+*.pbix.backup
