@@ -59,4 +59,4 @@ This project demonstrates a full, end-to-end data analysis workflow. It begins w
 ### How to Run This Project
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YourUsername/Your-Repo-Name.git
+   git clone https://github.com/sushmitha-shettigar28/Sales-Data-Analysis-Portfolio-Project.git
